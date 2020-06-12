@@ -6,4 +6,4 @@ The project was divided into:
 2. Model Selection and Tuning
 3. Predicting prices and getting results.
 
-## Training dataset can be accessed here[https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data] 
+#### Training dataset can be accessed [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
